@@ -70,8 +70,8 @@ section.imagem {
   background-color: rgb(29, 29, 29);
   color: white;
   box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.664);
-  background-size: cover;
-  background-attachment: fixed;
+  background-size: cover; /*mostra a imagem completinha*/
+  background-attachment: fixed; /*deixa a imagem fixa atrás*/
   box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.342);
 }
 section.imagem > p {
@@ -87,7 +87,7 @@ section#img01 {
 }
 section#img02 {
   background-image: url(../imagens/boiebrasa.jpeg);
-  background-position: 30%;
+  background-position: center center;
 }
 footer {
   background-color: #fbc4ab;
