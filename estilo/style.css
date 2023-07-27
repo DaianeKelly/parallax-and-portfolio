@@ -22,6 +22,7 @@ body {
   background-size: cover;
   background-position: bottom top;
   font-family: var(--fonte1);
+  max-width: 1280px;
 }
 header {
   background-image: linear-gradient(90deg, #f7ababa6, #f5c1bb, #f7c2b6);
