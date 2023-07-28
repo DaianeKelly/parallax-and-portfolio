@@ -224,18 +224,19 @@ h3 {
 }
 
 h5 {
-  color: #000000;
+  color: #ffffff;
   font-size: 23px;
   font-weight: bolder;
   margin-bottom: 15px;
 }
 
 .Paragrafo-button {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   font-size: 16px;
   font-weight: bolder;
   line-height: 27px;
   margin-bottom: 25px;
+  padding: 3px;
 }
 
 .Paragrafo-button button {
